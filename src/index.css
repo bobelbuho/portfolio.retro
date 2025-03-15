@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
 body {
   background: url('/wallpaper.jpg') no-repeat center center fixed;
   background-size: cover;
